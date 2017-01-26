@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Book Chapter
+. *L. Liu*, Z. Han, S. Cui, and V. H. Poor, ``Big Data Processing for Smart Grid Security," Big Data over Networks, /Cambridge University Press/, edited by A. Hero, J. Moura, T. Luo, and S. Cui.
+
+
+== Journal Publication
+. *L. Liu*, M. Esmalifalak, Q. Ding, V. A. Emesih, and Z. Han, ``Detecting False Data Injection Attacks on Power Gird by Sparse Optimization," /IEEE Transactions on Smart Grid/, vol. 5, no. 2, pp. 612-621, Mar. 2014.
+. M. Esmalifalak, *L. Liu*, N. Nguyen, R. Zheng, and Z. Han, ``Detecting Stealthy False Data Injection Using Machine Learning in Smart Grid," to appear /IEEE Systems Journal/.
+. *L. Liu*, A. Khodaei, W. Yin, and Z. Han, ``Distribute Approach for Security Constrained Optimal Power Flow with Renewable Generation," submitted to /IEEE Transaction on Power System/.
+. *L. Liu*, D. Niyato, P. Wang, and Z. Han, ``Scalable Mobile Cloud Services Management with Stochastic Wireless Link Latency," submitted to /IEEE Transaction on Mobile Computing/.
+. *L. Liu*, Z. Han, Z. Wu, and L. Qian, ``Spectrum Sensing and Primary User Localization in Cognitive Radio Networks via Sparsity," invited /EAI Transactions on Wireless Spectrum/ vol. 14, no. 1, pp. 1-14, Jan. 2014
+
+== Conference Publication
+. *L. Liu*, Q. Ling, and Z. Han, ``Decentralized Gauss-Newton Method For Nonlinear Least Squares On Wide Area Network,” invited, /The 2nd Radio and Antenna Days of the Indian Ocean (RADIO)/, Mauritius, April 2014.
+. *L. Liu*, A. Khodaei, W. Yin, and Z. Han, ``Distribute Parallel Approach for Big Data Scale Optimal Power Flow with Security Constraints," /IEEE SmartGridComm/, Vancouver, Canada, October 2013.
+. *L. Liu*, M. Esmalifalak, and Z. Han, ``Detection of False Data Injection in Power Grid Exploiting Low Rank and Sparsity," /IEEE International Conference on Communication/, Budapest, Hungary, June 2013.
+. *L. Liu* and Z. Han, ``Scalable Sparse Optimization for Big Power Grid Data," /NSF Workshop on Big Data From Signal Processing to Systems Engineering/, Arlington, VA, March, 2013.
+. *L. Liu*, H. Li, and Z. Han, ``Sampling Spectrum Occupancy Data over Random Fields: A Matrix Completion Approach," /IEEE International Conference on Communications/, Ottawa, Canada, June 2012.
+. *L. Liu*, Z. Han, Z. Wu, and L. Qian, ``Collaborative Compressive Sensing based Dynamic Spectrum Sensing and Mobile Primary User Localization in Cognitive Radio Networks," /IEEE Globe Communication Conference/, Houston, December 2011.
+. J. Cheng, H. Jiang, X. Ma, *L. Liu*, L. Qian, C. Tian, and W. Liu, “Efficient Data Collection with Sampling in WSNs: Making Use of Matrix Completion Techniques”, /IEEE Global Communications Conference/, Orlando, December 2010.
+. L. Shu, H. Jiang, X. Ma, *L. Liu*, K. Peng, B. Liu, J. Cheng, and Y. Xu, “Efficient Mobile Content Delivery Based on Co-route Prediction in Urban Transport”, /IEEE Global Communications Conference/, Orlando, December 2010.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

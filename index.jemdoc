@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{index.html}
+= Lanchao Liu
+
+~~~
+{}{img_left}{lanchao.jpg}{alt text}{200px}{200px}{IMGLINKTARGET}
+[http://www2.egr.uh.edu/~lliu24/ Lanchao Liu]
+([lliu10@uh.edu])\n
+Ph.D student
+
+Department of Electrical and Computer Engineering\n
+University of Houston\n
+Advisor: Professor [http://www2.egr.uh.edu/~zhan2/ Zhu Han]
+~~~
+
+= Research Interests
+- Big data analytics
+- Sparse optimization
+- Distributed and parallel computing
+- Workload management for mobile cloud computing
+- Cyber-security in smart grid
+- Compressed sensing in wireless communicaiton
+
